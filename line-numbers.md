@@ -1,6 +1,6 @@
 #### 1 helen likes turtles
 #### 2
-#### 3
+#### 3 I like puppies
 #### 4
 #### 5
 #### 6
