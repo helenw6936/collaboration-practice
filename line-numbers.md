@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is really awesome
 #### 10
-#### 11 bye
+#### 11 see you
 #### 12
 #### 13
 #### 14
